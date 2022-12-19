@@ -9,7 +9,7 @@ In recent years my main focus has been Node.js backends with MongoDB database
 and frontends developed in Angular and React.
 .
 
-🔭 I'm living in Tallin/Estonian since Nov/2021 and working at Riverty with Java and Angular.
+🔭 I'm living in Tallinn/Estonian since Nov/2021 and working at Riverty with Java and Angular.
 
 ----
 
