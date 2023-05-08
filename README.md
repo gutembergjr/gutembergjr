@@ -1,6 +1,6 @@
 ## 💜 Hello, my name is <strong>Gutemberg Jr.</strong>
 
-> Graduated with a Computer Engineering degree I was a founding partner of a
+> Graduated in Computer Engineering degree I was a founding partner of a
 software house, participating in the development of several projects.
 I have experience in some programming languages that have been updated over the
 years, from languages like clipper, delphi and java to current javascript-based
